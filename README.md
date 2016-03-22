@@ -6,7 +6,7 @@ Brooklyn, NY 11211
 Loharris79@gmail.com   
 914-434-1082   
 
-Step 3: Essay Questions   
+Essay Questions   
 
 **1. Why are you interested in programming? What have you done to expose yourself to programming so far?**   
 
